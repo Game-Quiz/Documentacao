@@ -1,7 +1,7 @@
 #  Game Quiz
 
 
-![Capa do Projeto](https://i.ibb.co/QpzGjjn/pngwing-com-2.png)
+![Capa do Projeto](https://github.com/Game-Quiz/Documentacao/blob/main/fundo-questionario-com-itens-em-design-plano_23-2147599082.jpg)
 
 
 
