@@ -49,7 +49,7 @@ Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Ga
 
 
 
-* [Levantamento de Requisitos](# levantamento-de-requisitos)
+* [Levantamento de Requisitos](#levantamento-de-requisitos)
 
 ### Requisitos Funcionais: 
 
