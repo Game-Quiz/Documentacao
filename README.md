@@ -31,13 +31,13 @@ Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Ga
 
 * [Colaboradores](#colaboradores)
 
-   Ana Paula Carolina de Medeiros       RA: 321218617
+   Ana Paula Carolina de Medeiros &nbsp;RA: 321218617
 
-   Dayvson do Carmo Gomes               RA: 321217293
+   Dayvson do Carmo Gomes &nbsp;RA: 321217293
  
-   Vagner Souza Rodrigues               RA: 321221005
+   Vagner Souza Rodrigues &nbsp; &nbsp; &nbsp; RA: 321221005
 
-   Wesley Filipe da Silva               RA: 321219499
+   Wesley Filipe da Silva &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;RA: 321219499
    
    
 
@@ -46,6 +46,28 @@ Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Ga
  
 
 * [Sprints](#sprints)
+
+
+
+* [Levantamento de Requisitos](# levantamento-de-requisitos)
+
+### Requisitos Funcionais: 
+
+RF001- O jogo deverá ter função multiplayer: O jogo deve permitir uma batalha de 2 jogadores.
+RF002-O jogador deverá haver um cadastro por partida: Cada jogador tem um nome, apelido, email, telefone.
+RF003-O jogo deverá ter função  escolha de personagens: Os jogadores poderão escolhem personagens já cadastrados no sistema.
+RF004-O jogo deverá escolher quem irá iniciar a partida: O sistema deverá selecionar quem iniciará a partida, atravéz de um método aleatório.
+RF005-O jogo deverá ter perguntas: Cada alternativa tem um enunciado e um status (true para alternativa correta e false para incorreta.)
+RF006-Jogo deverá identificar erros e acertos: Se o jogador errar, o tempo de vida é reduzido. Se o jogador acertar, o mesmo irá para proxima fase. O próximo jogador só começa a jogar se o outro errar.
+RF007-O jogo deverá ter perguntas Cada alternativa tem um enunciado e um status (true para alternativa corretae false para incorreta.)
+
+### Requisitos não funcionais: 
+
+RNF001-O jogo não precisará de internet para funcionar.
+RNF002-Banco de dados: será utilizado base de dados utilizando a linguagem sql.
+RNF003-Linguagem: será utilizado a linguagem Java e sql.
+RNF004-usabilidade: O jogo deve ser claro para qualquer usuário que o utilizar.
+RNF005-Restrição: O jogo deverá identificar ações não permitidas.
 
 
 * [Diagrama de Casos de Uso do Sistema.](#diagrama-caso-de-uso)
@@ -66,4 +88,3 @@ Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Ga
 * [Modelo Relacional da Base de Dados do Sistema.](#modelo-relacional)
 
   ![](https://github.com/Game-Quiz/Documentacao/blob/main/WhatsApp%20Image%202021-11-18%20at%2000.07.41.jpeg)
-
