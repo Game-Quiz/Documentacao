@@ -33,7 +33,7 @@ Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Ga
 
    Ana Paula Carolina de Medeiros &nbsp;RA: 321218617
 
-   Dayvson do Carmo Gomes &nbsp;RA: 321217293
+   Dayvson do Carmo Gomes &nbsp;&nbsp;RA: 321217293
  
    Vagner Souza Rodrigues &nbsp; &nbsp; &nbsp; RA: 321221005
 
