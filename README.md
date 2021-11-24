@@ -4,8 +4,6 @@
 <img src="https://github.com/Game-Quiz/Documentacao/blob/main/fundo-questionario-com-itens-em-design-plano_23-2147599082.jpg" width="700px" />
 </div>
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
-
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
 </h4>
