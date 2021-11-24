@@ -1,9 +1,8 @@
 #  Game Quiz
 
-
-![Capa do Projeto](https://github.com/Game-Quiz/Documentacao/blob/main/fundo-questionario-com-itens-em-design-plano_23-2147599082.jpg)
-
-
+<div align="center">
+<img src="https://github.com/Game-Quiz/Documentacao/blob/main/fundo-questionario-com-itens-em-design-plano_23-2147599082.jpg" width="700px" />
+</div>
 
 Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
