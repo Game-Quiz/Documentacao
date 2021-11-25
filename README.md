@@ -18,8 +18,10 @@ Funciona da seguinte forma: O jogo inicia com os jogadores possuindo a vida máx
 Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Game Quiz.
 
 
+* [Regras do jogo:](#regras-do-jogo)
+
+
 * [Definição de siglas](#definicao-siglas)
- 
 
 * [Cronograma previsto](#cronograma)
 
