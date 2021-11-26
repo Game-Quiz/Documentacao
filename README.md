@@ -5,7 +5,7 @@
 </div>
 
 <h4 align="center"> 
-	🚧
+### O Game Quiz é um jogo de perguntas e respostas, interativo e de fácil jogabilidade.
 </h4>
 
 # Documentação
