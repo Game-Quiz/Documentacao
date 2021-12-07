@@ -20,6 +20,13 @@ Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Ga
 
 * [Regras do jogo:](#Regras-do-jogo)
 
+- Cada jogador deve escolher um personagem.
+- Ambos iniciam com 10% de vida.
+- Cada pergunta errada será decrementada 10% de vida. 
+- Para iniciar o jogo é necessários dois jogadores.
+- O primeiro jogador a atingir 0% de vida será o perdedor da partida.
+- Vence o jogador que tiver a maior porcentagem de vida.
+
 
 * [Definição de siglas](#Definição-de-siglas)
 
