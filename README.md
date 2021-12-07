@@ -18,12 +18,12 @@ Funciona da seguinte forma: O jogo inicia com os jogadores possuindo a vida máx
 Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Game Quiz.
 
 
-* [Regras do jogo:](#Regras do jogo)
+* [Regras do jogo:](#Regras-do-jogo)
 
 
-* [Definição de siglas](#Definição de siglas)
+* [Definição de siglas](#Definição-de-siglas)
 
-* [Cronograma previsto](#Cronograma previsto)
+* [Cronograma previsto](#Cronograma-previsto)
 
   [Link de acesso ao site](https://www.notion.so/Trabalho-Final-A3-ac22bb50ea96402b9789fa42a1f10755)
  
@@ -41,14 +41,14 @@ Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Ga
    
 
 
-* [Backlog do Produto](#Backlog do Produto)
+* [Backlog do Produto](#Backlog-do-Produto)
  
 
 * [Sprints](#Sprints)
 
 
 
-* [Levantamento de Requisitos](#Levantamento de Requisitos)
+* [Levantamento de Requisitos](#Levantamento-de-Requisitos)
 
 ### Requisitos Funcionais: 
 
@@ -79,12 +79,12 @@ RNF004-usabilidade: O jogo deve ser claro para qualquer usuário que o utilizar.
 RNF005-Restrição: O jogo deverá identificar ações não permitidas.
 
 
-* [Diagrama de Casos de Uso do Sistema.](#Diagrama de Casos de Uso do Sistema)
+* [Diagrama de Casos de Uso do Sistema.](#Diagrama-de-Casos-de-Uso-do-Sistema)
 
     ![](https://github.com/Game-Quiz/Documentacao/blob/main/Untitled%20Diagram-Page-5.drawio%20(1).png)
  
 
-* [Diagrama de Classes do Sistema.](#Diagrama de Classes do Sistema)
+* [Diagrama de Classes do Sistema.](#Diagrama-de-Classes-do-Sistema)
 
    ![](https://github.com/Game-Quiz/Documentacao/blob/main/Diagrama%20de%20Classe.jpg)
   
@@ -94,6 +94,6 @@ RNF005-Restrição: O jogo deverá identificar ações não permitidas.
    ![](https://github.com/Game-Quiz/Documentacao/blob/main/WhatsApp%20Image%202021-11-18%20at%2000.02.50.jpeg)
 
 
-* [Modelo Relacional da Base de Dados do Sistema.](#Modelo Relacional da Base de Dados do Sistema)
+* [Modelo Relacional da Base de Dados do Sistema.](#Modelo-Relacional-da-Base-de-Dados-do-Sistema)
 
   ![](https://github.com/Game-Quiz/Documentacao/blob/main/WhatsApp%20Image%202021-11-18%20at%2000.07.41.jpeg)
