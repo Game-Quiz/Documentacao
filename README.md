@@ -11,7 +11,7 @@
 # Documentação
 
 
-* [Objetivo do sistema](#Objetivo do sistema)
+* [Objetivo do sistema](#Objetivo-do-sistema)
 
 O Game Quiz consiste em ser um jogo de perguntas, educativo e de fácil jogabilidade, podendo qualquer usuário usufruir da plataforma e se divertir com o Game.
 Funciona da seguinte forma: O jogo inicia com os jogadores possuindo a vida máxima, ou seja, 100%. Logo, 2 jogadores escolhem seus personagens (Avatar) disponíveis no jogo e batalham em um confronto de perguntas no qual a cada resposta errada, o seu tempo de vida é diminuído, o outro jogador só poderá jogar caso o oponente erre a resposta. O jogador que estiver maior vida ao fim do jogo será o vencedor.
@@ -22,6 +22,7 @@ Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Ga
 
 
 * [Definição de siglas](#Definição-de-siglas)
+
 
 * [Cronograma previsto](#Cronograma-previsto)
 
@@ -43,8 +44,10 @@ Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Ga
 
 * [Backlog do Produto](#Backlog-do-Produto)
  
+ 
 
 * [Sprints](#Sprints)
+
 
 
 
@@ -79,19 +82,23 @@ RNF004-usabilidade: O jogo deve ser claro para qualquer usuário que o utilizar.
 RNF005-Restrição: O jogo deverá identificar ações não permitidas.
 
 
+
 * [Diagrama de Casos de Uso do Sistema.](#Diagrama-de-Casos-de-Uso-do-Sistema)
 
     ![](https://github.com/Game-Quiz/Documentacao/blob/main/Untitled%20Diagram-Page-5.drawio%20(1).png)
  
 
+
 * [Diagrama de Classes do Sistema.](#Diagrama-de-Classes-do-Sistema)
 
    ![](https://github.com/Game-Quiz/Documentacao/blob/main/Diagrama%20de%20Classe.jpg)
   
+  
 
-* [Modelo Entidade Relacionamento da Base de Dados do Sistema.](#Modelo Relacional da Base de Dados do Sistema)
+* [Modelo Entidade Relacionamento da Base de Dados do Sistema.](#Modelo-Relacional-da-Base-de-Dados-do-Sistema)
 
    ![](https://github.com/Game-Quiz/Documentacao/blob/main/WhatsApp%20Image%202021-11-18%20at%2000.02.50.jpeg)
+
 
 
 * [Modelo Relacional da Base de Dados do Sistema.](#Modelo-Relacional-da-Base-de-Dados-do-Sistema)
