@@ -27,6 +27,10 @@ Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Ga
 - O primeiro jogador a atingir 0% de vida será o perdedor da partida.
 - Vence o jogador que tiver a maior porcentagem de vida.
 
+* [Acesso ao vídeo do jogo Game Quiz.](https://www.youtube.com/watch?v=HkEWVhlmr-M)
+
+ - https://www.youtube.com/watch?v=HkEWVhlmr-M
+
 
 * [Definição de siglas](#Definição-de-siglas)
 
