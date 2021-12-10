@@ -29,7 +29,7 @@ Venha se divertir no jogo e mostrar todo seu conhecimento aqui! Venha jogar o Ga
 
 * [Acesso ao vídeo do jogo Game Quiz.](https://www.youtube.com/watch?v=HkEWVhlmr-M)
 
- - https://www.youtube.com/watch?v=HkEWVhlmr-M
+ <div> <a href="https://www.youtube.com/watch?v=HkEWVhlmr-M" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 
 * [Definição de siglas](#Definição-de-siglas)
